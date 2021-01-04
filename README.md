@@ -1,7 +1,7 @@
 ### 👋 Olá!
 
 ##### Muito prazer! Eu sou Filipi, desenvolvedor Mobile Júnior.
-##### Apaixonado por tecnologia e desenvolvimento de software, também crio diversos conteúdos no instagram @filipi.rafael.7
+##### Apaixonado por tecnologia e desenvolvimento de software, também crio diversos conteúdos no instagram [@filipi.rafael.7](https://www.instagram.com/filipi.rafael.7/)
 ##### No meu tempo tempo livre busco sempre me desenvolver pessoalmente, com inglês, livros e esportes.
 ##### Se quiser entrar em contato comigo, fique a vontade pelo seguinte e-nail ou minhas redes sociais: contato@filipirafael.com
 [![Linkedin Badge](https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/filipi-rafael-developer/)
