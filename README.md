@@ -1,6 +1,6 @@
 ## 👋 Olá!
 
-#### Muito prazer! Eu sou Filipi, desenvolvedor Mobile Júnior.
+#### Muito prazer! Eu sou Filipi, desenvolvedor Júnior.
 #### Sou apaixonado por tecnologia e desenvolvimento de software, também publico diversos conteúdos no instagram sobre tecnologia [@filipi.rafael.7](https://www.instagram.com/filipi.rafael.7/)
 #### No meu tempo tempo livre busco sempre me desenvolver pessoalmente, com inglês, livros e esportes.
 #### Se quiser entrar em contato comigo, fique a vontade pelo seguinte e-mail ou por minhas redes sociais: contato@filipirafael.com
