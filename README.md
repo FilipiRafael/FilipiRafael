@@ -1,7 +1,7 @@
-## 👋 Olá, eu sou o Filipi Rafael, Desenvolvedor de Software Front-end!
+## 👋 Olá, eu sou o Filipi Rafael, Desenvolvedor de Software!
 
-- 👨🏼‍💻 Hoje trabalho com Front-end
-- 🌱 Estudando React e Typescript
+- 👨🏼‍💻 Hoje trabalho como Full Stack
+- 🌱 Estudando Nodejs, React e Typescript
 
 <div align="left">
   <a href="https://github.com/filipirafael">
