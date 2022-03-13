@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Filipi Rafael, Desenvolvedor de Software!
 
 - 👨🏼‍💻 Hoje trabalho como Full Stack
-- 🌱 Estudando Nodejs, React e Typescript
+- 🌱 Estudando Nodejs, React, Next e Typescript
 
 <div align="left">
   <a href="https://github.com/filipirafael">
