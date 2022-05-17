@@ -1,13 +1,11 @@
 ## 👋 Olá, eu sou o Filipi Rafael, Desenvolvedor de Software!
 
-- 👨🏼‍💻 Hoje trabalho como Full Stack
-- 🌱 Estudando Nodejs, React, Next e Typescript
+- 👨🏼‍💻 Hoje trabalho como Dev FrontEnd
+- 🌱 Estudando Typescript, React e React Native.
 
-<!-- <div align="left">
-  <a href="https://github.com/filipirafael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipirafael&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipirafael&layout=compact&langs_count=7&theme=react"/>
-</div> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipirafael&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipirafael&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
