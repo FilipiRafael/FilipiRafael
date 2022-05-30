@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Filipi Rafael, Desenvolvedor de Software!
+## 👋 Olá, eu sou o Filipi Rafael, Software Engineer Front-end!
 
 - 👨🏼‍💻 Hoje trabalho como Dev FrontEnd
 - 🌱 Estudando Typescript, React e React Native.
