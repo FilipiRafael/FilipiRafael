@@ -14,8 +14,8 @@ Software developer passionate about applying skills to solve problems, create am
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂 Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=filipirafael&icon=0&color=1)](https://visitcount.itsvg.in)
