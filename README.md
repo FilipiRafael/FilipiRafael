@@ -11,6 +11,13 @@ Software developer passionate about applying skills to solve problems, create am
 ![](https://github-readme-streak-stats.herokuapp.com/?user=filipirafael&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=filipirafael&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### Companies I worked with
+<div style="display: flex; justify-content: flex-start">
+    <img src="./jll.png" alt="logo icon" />
+        <img src="./mesk.png" alt="logo icon" />
+            <img src="./vlx.png" alt="logo icon" />
+</div>
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
