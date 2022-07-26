@@ -13,9 +13,9 @@ Software developer passionate about applying skills to solve problems, create am
 
 # Companies I worked with:
 <div style="display: flex; justify-content: flex-start">
-    <img style="width:100px;" src="./mesk.png" alt="logo icon" />
-    <img style="width:100px;" src="./jll.png" alt="logo icon" />
-    <img style="width:100px;" src="./vlx.png" alt="logo icon" />
+    <img style="width:100px; max-width:100px;" src="./mesk.png" alt="logo icon" />
+    <img style="width:100px; max-width:100px;" src="./jll.png" alt="logo icon" />
+    <img style="width:100px; max-width:100px;" src="./vlx.png" alt="logo icon" />
 </div>
 
 ### ✍️ Dev Quote
