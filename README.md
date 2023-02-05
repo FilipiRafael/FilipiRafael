@@ -1,6 +1,12 @@
 # 💫 About Me :
 A Full-Stack Engineer that loves apply his knowledge to solve problems, create amazing products and impact lives. As a developer I seek to help my team to become more effective and less experienced developers to grow/learn more.
 
+I currently work at BuiltGrid, where I have the privilege of develop products that have impacts on millions of Australians, transforming how construction market works.
+
+I develop solutions and ideas using my creativity and my technical knowledge in Javascript/Typescript building web-apps with React and mobile-apps using React Native and that aren't just beautiful, but enjoyable to use and really problem solvers. Also, I develop RESTful APIs using NodeJS, Prisma and other NoSQL and SQL solutions.
+
+Studying English every day with native teachers to improve my communication skills and I have international experience as a front-end developer.
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/filipi.rafael.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipi-rafael-developer/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@filipirafael.123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FilipiRafael3) 
 
