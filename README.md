@@ -1,6 +1,6 @@
 ### Hi All! :wave:
 
-My name is Filipi Rafael, and I'm 22 years old React Native Developer, currently doing mobile apps development at [purp](https://purp.social) 📱
+My name is Filipi Rafael, and I'm 23 years old React Native Developer, currently doing mobile apps development at [purp](https://purp.social) 📱
 
 ### Software Engineer [purp](https://purp.social) / React Native developer
 
