@@ -1,8 +1,8 @@
 ### Hi All! :wave:
 
-My name is Filipi Rafael, and I'm 23 years old React Native Developer, currently doing mobile apps development at [purp](https://purp.social) 📱
+My name is Filipi Rafael, and I'm 23 years old React Native Developer, currently doing mobile apps development at [metaltoad](https://www.metaltoad.com) 📱
 
-### Software Engineer [purp](https://purp.social) / React Native developer
+### Software Engineer [metaltoad](https://www.metaltoad.com) / React Native developer
 
 ⤷ Exploring the world of React Native as a Software Engineer, Learning from Open Source and always looking to improve my skills.
 
